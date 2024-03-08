@@ -1,0 +1,15 @@
+D:\CleanArchitec-Asp\CleanArch.Application\bin\Debug\net8.0\CleanArch.Application.deps.json
+D:\CleanArchitec-Asp\CleanArch.Application\bin\Debug\net8.0\CleanArch.Application.dll
+D:\CleanArchitec-Asp\CleanArch.Application\bin\Debug\net8.0\CleanArch.Application.pdb
+D:\CleanArchitec-Asp\CleanArch.Application\bin\Debug\net8.0\CleanArch.Domain.dll
+D:\CleanArchitec-Asp\CleanArch.Application\bin\Debug\net8.0\CleanArch.Domain.pdb
+D:\CleanArchitec-Asp\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.csproj.AssemblyReference.cache
+D:\CleanArchitec-Asp\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\CleanArchitec-Asp\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.AssemblyInfoInputs.cache
+D:\CleanArchitec-Asp\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.AssemblyInfo.cs
+D:\CleanArchitec-Asp\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.csproj.CoreCompileInputs.cache
+D:\CleanArchitec-Asp\CleanArch.Application\obj\Debug\net8.0\CleanArc.054EF71E.Up2Date
+D:\CleanArchitec-Asp\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.dll
+D:\CleanArchitec-Asp\CleanArch.Application\obj\Debug\net8.0\refint\CleanArch.Application.dll
+D:\CleanArchitec-Asp\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.pdb
+D:\CleanArchitec-Asp\CleanArch.Application\obj\Debug\net8.0\ref\CleanArch.Application.dll
