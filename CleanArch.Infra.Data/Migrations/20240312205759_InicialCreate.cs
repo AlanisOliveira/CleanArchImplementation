@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore.Migrations;
+﻿using System;
+using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
@@ -7,11 +8,12 @@
 namespace CleanArch.Infra.Data.Migrations
 {
     /// <inheritdoc />
-    public partial class PopulaTabela : Migration
+    public partial class InicialCreate : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
+
             migrationBuilder.CreateTable(
                 name: "Products",
                 columns: table => new
@@ -38,9 +40,12 @@ namespace CleanArch.Infra.Data.Migrations
                 });
         }
 
+            
+
         /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
+            
             migrationBuilder.DropTable(
                 name: "Products");
         }

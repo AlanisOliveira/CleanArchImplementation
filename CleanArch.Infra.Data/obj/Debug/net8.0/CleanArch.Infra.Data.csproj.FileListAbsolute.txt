@@ -17,3 +17,4 @@ D:\CleanArchitec-Asp\CleanArch.Infra.Data\bin\Debug\net8.0\CleanArch.Domain.dll
 D:\CleanArchitec-Asp\CleanArch.Infra.Data\bin\Debug\net8.0\CleanArch.Domain.pdb
 D:\CleanArchitec-Asp\CleanArch.Infra.Data\bin\Debug\net8.0\CleanArch.Application.pdb
 D:\CleanArchitec-Asp\CleanArch.Infra.Data\obj\Debug\net8.0\CleanArc.92526541.Up2Date
+D:\CleanArchitec-Asp\CleanArch.Infra.Data\obj\Debug\net8.0\CleanArch.Infra.Data.sourcelink.json

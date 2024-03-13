@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CleanArchitec-Asp\\CleanArch.MVC\\CleanArch.MVC.csproj": {}
+    "D:\\CleanArchitec-Asp\\cleanarch.mvc\\CleanArch.MVC.csproj": {}
   },
   "projects": {
     "D:\\CleanArchitec-Asp\\CleanArch.Application\\CleanArch.Application.csproj": {
@@ -48,6 +48,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -287,14 +293,14 @@
         }
       }
     },
-    "D:\\CleanArchitec-Asp\\CleanArch.MVC\\CleanArch.MVC.csproj": {
+    "D:\\CleanArchitec-Asp\\cleanarch.mvc\\CleanArch.MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CleanArchitec-Asp\\CleanArch.MVC\\CleanArch.MVC.csproj",
+        "projectUniqueName": "D:\\CleanArchitec-Asp\\cleanarch.mvc\\CleanArch.MVC.csproj",
         "projectName": "CleanArch.MVC",
-        "projectPath": "D:\\CleanArchitec-Asp\\CleanArch.MVC\\CleanArch.MVC.csproj",
+        "projectPath": "D:\\CleanArchitec-Asp\\cleanarch.mvc\\CleanArch.MVC.csproj",
         "packagesPath": "C:\\Users\\alani\\.nuget\\packages\\",
-        "outputPath": "D:\\CleanArchitec-Asp\\CleanArch.MVC\\obj\\",
+        "outputPath": "D:\\CleanArchitec-Asp\\cleanarch.mvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alani\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -334,6 +340,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

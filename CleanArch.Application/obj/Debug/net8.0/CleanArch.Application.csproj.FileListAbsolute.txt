@@ -13,3 +13,4 @@ D:\CleanArchitec-Asp\CleanArch.Application\obj\Debug\net8.0\CleanArch.Applicatio
 D:\CleanArchitec-Asp\CleanArch.Application\obj\Debug\net8.0\refint\CleanArch.Application.dll
 D:\CleanArchitec-Asp\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.pdb
 D:\CleanArchitec-Asp\CleanArch.Application\obj\Debug\net8.0\ref\CleanArch.Application.dll
+D:\CleanArchitec-Asp\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.sourcelink.json
